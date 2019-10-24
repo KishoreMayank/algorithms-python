@@ -9,3 +9,4 @@ Some good algorithms implemented on Python
 - Dropbox - Autocomplete Scores
 - eBay - Prefix Strings
 - eBay - Find Substrings that match patterns
+- eBay - Reverse Digits in Pairs
